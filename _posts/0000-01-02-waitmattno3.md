@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-What's good, we outchea learning today!
+Life is Good!
 Use the left arrow to go back!
